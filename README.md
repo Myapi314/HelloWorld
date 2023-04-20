@@ -13,4 +13,4 @@ Python is the language used for this project. No other libraries or tools were u
 
 <!-- {Make a list of websites that you found helpful in this project}
 <!-- * [Web Site Name](http://url.link.goes.here) -->
-* [W3 Schools Python Tutorial](https://www.w3schools.com/python/) -->
+* [W3 Schools Python Tutorial](https://www.w3schools.com/python/)
