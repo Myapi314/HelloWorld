@@ -9,8 +9,8 @@ The purpose in creating this is to start off my online software profile, documen
 
 Python is the language used for this project. No other libraries or tools were utilized in developing this program.
 
-<!-- # Useful Websites -->
+# Useful Websites
 
 <!-- {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here) -->
+<!-- * [Web Site Name](http://url.link.goes.here) -->
+* [W3 Schools Python Tutorial](https://www.w3schools.com/python/) -->
